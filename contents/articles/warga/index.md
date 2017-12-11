@@ -1,12 +1,12 @@
 ---
-title: Kerja Bakti Lingkungan Cluster 17 Agustus 2017
+title: Metland Cibitung Cluster Taman Cikini
 author: metlandcikini
 date: 2017-12-01
 template: article.jade
 tags: Warga
 ---
 
-Warga Metland Cibitung Cluster Taman Cikini
+Metland Cibitung Cluster Taman Cikini
 
 ![pak rt](bakti1.jpg)
 <small>_Keterangan foto : pak rt_</small>
