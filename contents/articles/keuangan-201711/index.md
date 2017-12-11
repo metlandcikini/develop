@@ -7,6 +7,7 @@ tags: Laporan Keuangan
 ---
 
 LAPORAN KEUANGAN BULAN NOVEMBER 2017
+<br><small>_data selengkapnya dengan Pak Saogi F3/3_</small>
 
 | NO | TANGGAL     | KETERANGAN                                                                                       | PEMASUKAN IPL | RENOVASI & OTHER | PENGELUARAN  | SALDO        |
 |----|-------------|--------------------------------------------------------------------------------------------------|---------------|------------------|--------------|--------------|
