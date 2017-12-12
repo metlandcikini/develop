@@ -2,7 +2,7 @@
   "name": "metlandcikini",
   "version": "1.0.0",
   "description": "METLAND CIBITUNG CLUSTER TAMAN CIKINI",
-  "author": "",
+  "author": "metlandcikini",
   "private": true,
   "scripts": {
     "dev": "./node_modules/.bin/wintersmith preview",
